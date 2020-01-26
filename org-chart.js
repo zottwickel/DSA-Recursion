@@ -52,3 +52,5 @@ function orgChart(org) {
 }
 
 orgChart(tree)
+
+// big o = O(1)

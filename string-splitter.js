@@ -10,3 +10,5 @@ function stringSplitter(str, splt) {
 }
 
 console.log(stringSplitter('abc/123/abc/123', '/'))
+
+// big o = O(n)

@@ -8,3 +8,5 @@ function powerCalculator(base, power) {
 }
 
 console.log(powerCalculator(10, 2))
+
+//big o = O(1)

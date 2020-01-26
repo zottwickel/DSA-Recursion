@@ -160,3 +160,5 @@ let maze = [
 solveMaze(mySmallMaze)
 console.log(' ')
 solveMaze(maze)
+
+// big o = O(n)

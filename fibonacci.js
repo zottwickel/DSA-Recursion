@@ -21,3 +21,5 @@ function fibonacci(num) {
 }
 
 console.log(fibonacci(7))
+
+// big o = O(1)

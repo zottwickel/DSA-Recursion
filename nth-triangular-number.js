@@ -6,3 +6,5 @@ function nthTriangularNumber(num) {
 }
 
 console.log(nthTriangularNumber(7))
+
+// big o = O(1)

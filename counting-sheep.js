@@ -7,3 +7,5 @@ function countingSheep(int) {
 }
 
 countingSheep(3);
+
+//big o = O(1)

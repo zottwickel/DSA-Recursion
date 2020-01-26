@@ -27,3 +27,5 @@ function anagrams(word) {
 }
 
 anagrams('eatery')
+
+//big o = O(n)

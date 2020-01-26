@@ -11,3 +11,5 @@ function toBinary(num) {
 }
 
 console.log(toBinary(25))
+
+// big o = O(1)

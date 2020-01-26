@@ -6,3 +6,5 @@ function factorial(num) {
 }
 
 console.log(factorial(4))
+
+// big o = O(1)
